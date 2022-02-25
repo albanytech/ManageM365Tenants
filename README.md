@@ -18,6 +18,9 @@ Install-Module MSOnline
 Get-MsolUser
 
 
+# Install the SharePoint Module
+Install-Module -Name Microsoft.Online.SharePoint.PowerShell
+
 
 # Setup Ubuntu
 # Source https://docs.microsoft.com/en-us/powershell/scripting/install/install-ubuntu?view=powershell-7.2
