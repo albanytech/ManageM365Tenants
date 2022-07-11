@@ -1,0 +1,1 @@
+New-ItemProperty -Path “HKLM\SYSTEM\CurrentControlSet\Control\Lsa\RunAsPPL” -Value ‘1’ -Type DWORD -Force
