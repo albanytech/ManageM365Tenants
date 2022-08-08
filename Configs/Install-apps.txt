@@ -1,4 +1,4 @@
-Version 1.0
+Version 1.1
 AgileBits.1Password
 Canonical.Ubuntu
 Git.Git
@@ -6,3 +6,4 @@ Microsoft.WindowsTerminal.Preview
 Microsoft.VisualStudioCode
 Notepad++.Notepad++
 tailscale.tailscale
+OpenWhisperSystems.Signal
