@@ -43,7 +43,7 @@ N/A
 #                                                                                                                               #
 #####################################################################################################################################
 
-$installuri = "https://github.com/albanytech/ManageM365Tenants/blob/main/Configs/Install-apps.txt"
+$installuri = "https://raw.githubusercontent.com/albanytech/ManageM365Tenants/main/Configs/Install-apps.txt"
 
 
 ##Create a folder to store the lists
