@@ -1,0 +1,8 @@
+Version 1.0
+AgileBits.1Password
+Canonical.Ubuntu
+Git.Git
+Microsoft.WindowsTerminal.Preview
+Microsoft.VisualStudioCode
+Notepad++.Notepad++
+tailscale.tailscale
