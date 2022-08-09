@@ -89,7 +89,7 @@ $apps = get-content $templateFilePath | select-object -skip 1
 foreach ($app in $apps) {
 
 write-host "Uninstalling $app"
-winget uninstall --exact --id $app --silent --accept-source-agreements
+.\winget.exe uninstall --exact --id $app --silent --accept-source-agreements
 }
 
 ##Delete the .old file to replace it with the new one
