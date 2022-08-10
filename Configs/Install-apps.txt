@@ -5,5 +5,4 @@ Git.Git
 Microsoft.WindowsTerminal.Preview
 Microsoft.VisualStudioCode
 Notepad++.Notepad++
-tailscale.tailscale
 OpenWhisperSystems.Signal
