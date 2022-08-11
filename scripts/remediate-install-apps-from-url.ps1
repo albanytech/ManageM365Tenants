@@ -80,7 +80,7 @@ $ResolveWingetPath = Resolve-Path "C:\Program Files\WindowsApps\Microsoft.Deskto
 $config
 
 ##Navigate to the Winget Path
-cd $wingetpath
+Set-Location $wingetpath
 
 ##Loop through app list
 $apps = get-content $templateFilePath | select-object -skip 1
