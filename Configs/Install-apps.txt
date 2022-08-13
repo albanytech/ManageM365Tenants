@@ -1,4 +1,4 @@
-Version 1.4
+Version 1.5
 AgileBits.1Password
 Canonical.Ubuntu
 Git.Git
@@ -6,3 +6,4 @@ Microsoft.WindowsTerminal.Preview
 Microsoft.VisualStudioCode
 Notepad++.Notepad++
 OpenWhisperSystems.Signal
+kalilinux.kalilinux
