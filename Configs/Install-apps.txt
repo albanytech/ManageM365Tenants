@@ -1,5 +1,9 @@
 Version 1.7
+<<<<<<< HEAD
 AgileBits.1Password
+=======
+kalilinux.kalilinux
+>>>>>>> b3f7b36068c85ae98464f67dc52682e696193127
 Canonical.Ubuntu
 Git.Git
 Microsoft.WindowsTerminal.Preview
@@ -7,4 +11,4 @@ Microsoft.VisualStudioCode
 Notepad++.Notepad++
 Microsoft.PowerToys
 OpenWhisperSystems.Signal
-kalilinux.kalilinux
+AgileBits.1Password
