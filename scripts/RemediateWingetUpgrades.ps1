@@ -13,7 +13,7 @@ $config
 Set-Location $wingetpath
 
 try{
-    ./winget.exe upgrade --all
+    ./winget.exe upgrade --all --force --accept-package-agreements --accept-source-agreements --silent
     
     }
     catch{
