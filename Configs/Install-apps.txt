@@ -1,9 +1,5 @@
-Version 1.7
-<<<<<<< HEAD
-AgileBits.1Password
-=======
+Version 1.8
 kalilinux.kalilinux
->>>>>>> b3f7b36068c85ae98464f67dc52682e696193127
 Canonical.Ubuntu
 Git.Git
 Microsoft.WindowsTerminal.Preview
