@@ -1,4 +1,4 @@
-Version 1.95
+Version 1.96
 Canonical.Ubuntu
 Git.Git
 Microsoft.WindowsTerminal.Preview
