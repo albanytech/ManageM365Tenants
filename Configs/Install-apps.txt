@@ -1,5 +1,4 @@
 Version 1.96
-Canonical.Ubuntu
 Git.Git
 Microsoft.VisualStudioCode
 Notepad++.Notepad++
