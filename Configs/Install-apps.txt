@@ -1,7 +1,6 @@
 Version 1.96
 Canonical.Ubuntu
 Git.Git
-Microsoft.WindowsTerminal.Preview
 Microsoft.VisualStudioCode
 Notepad++.Notepad++
 Microsoft.PowerToys
