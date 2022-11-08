@@ -1,8 +1,12 @@
-Version 2.8
+Version 2.9
 Git.Git
 Microsoft.PowerToys
 Notepad++.Notepad++
 Microsoft.VisualStudioCode
 AgileBits.1Password
 Microsoft.Powershell
+Google.Chrome
+Canonical.Ubuntu
+Microsoft.WindowsTerminal.Preview
+GlassWire.GlassWire
 OpenWhisperSystems.Signal
