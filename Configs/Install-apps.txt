@@ -1,8 +1,8 @@
 Version 2.7
 Git.Git
-Microsoft.VisualStudioCode
-Notepad++.Notepad++
 Microsoft.PowerToys
-OpenWhisperSystems.Signal
+Notepad++.Notepad++
+Microsoft.VisualStudioCode
 AgileBits.1Password
 Microsoft.Powershell
+OpenWhisperSystems.Signal
