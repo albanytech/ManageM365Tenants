@@ -1,4 +1,4 @@
-Version 2.9
+Version 3.0
 Git.Git
 Microsoft.PowerToys
 Notepad++.Notepad++
@@ -8,5 +8,4 @@ Microsoft.Powershell
 Google.Chrome
 Canonical.Ubuntu
 Microsoft.WindowsTerminal.Preview
-GlassWire.GlassWire
 OpenWhisperSystems.Signal
