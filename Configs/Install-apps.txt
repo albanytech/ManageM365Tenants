@@ -1,4 +1,4 @@
-Version 3.0
+Version 3.1
 Git.Git
 Microsoft.PowerToys
 Notepad++.Notepad++
@@ -8,4 +8,5 @@ Microsoft.Powershell
 Google.Chrome
 Canonical.Ubuntu
 Microsoft.WindowsTerminal.Preview
+microsoft.Visualstudio.2022.professional
 OpenWhisperSystems.Signal
