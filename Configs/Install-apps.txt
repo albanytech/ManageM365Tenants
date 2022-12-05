@@ -1,4 +1,4 @@
-Version 3.5
+Version 3.6
 Microsoft.AzureCLI
 Git.Git
 Microsoft.PowerToys
@@ -6,8 +6,5 @@ Notepad++.Notepad++
 Microsoft.VisualStudioCode
 AgileBits.1Password
 Microsoft.Powershell
-Google.Chrome
-Canonical.Ubuntu
-Microsoft.WindowsTerminal.Preview
 microsoft.Visualstudio.2022.professional
 OpenWhisperSystems.Signal
