@@ -1,5 +1,5 @@
 try{
-    $Winget = Get-ChildItem -Path (Join-Path -Path (Join-Path -Path $env:ProgramFiles -ChildPath "WindowsApps") -ChildPath "Microsoft.DesktopAppInstaller*_x64*\winget.exe")
+    $Winget = Get-ChildItem -Path (Join-Path -Path (Join-Path -Path $env:ProgramFiles -ChildPath "WindowsApps") -ChildPath "Microsoft.DesktopAppInstaller*_x64__8wekyb3d8bbwe\winget.exe")
 
     # upgrade command for ALL
     &$Winget upgrade --all #--query "" --silent --accept-package-agreements --accept-source-agreements

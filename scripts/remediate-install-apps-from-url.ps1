@@ -31,7 +31,7 @@ None
   WWW:            andrewstaylor.com
   Creation Date:  25/07/2022
   Purpose/Change: Initial script development
-  Amended By      Tom Colemabn
+  Amended By      Tom Coleman
   Amended Date    08/08/2022
 
   
