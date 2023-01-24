@@ -1,6 +1,7 @@
-Version 3.7
+Version 3.8
 Microsoft.AzureCLI
 Git.Git
 Notepad++.Notepad++
 Microsoft.VisualStudioCode
 AgileBits.1Password
+Yubico.YubikeyManager
