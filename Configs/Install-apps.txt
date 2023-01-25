@@ -1,5 +1,5 @@
-Version 4
-Tailscale.Tailscale
+Version 4.1
+tailscale.tailscale
 Microsoft.AzureCLI
 Git.Git
 Notepad++.Notepad++
