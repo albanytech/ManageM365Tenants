@@ -1,8 +1,7 @@
-Version 4.2
+Version 5
 tailscale.tailscale
 Microsoft.AzureCLI
 Git.Git
 Notepad++.Notepad++
-Microsoft.VisualStudioCode
 AgileBits.1Password
 Yubico.YubikeyManager
