@@ -1,4 +1,6 @@
-Version 5.4
+Version 6.0
+MullvadVPN.MullvadVPN
+MullvadVPN.MullvadBrowser
 Insecure.Npcap
 WiresharkFoundation.Wireshark
 GitHub.cli
