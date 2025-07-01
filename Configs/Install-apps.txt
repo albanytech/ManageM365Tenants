@@ -1,9 +1,6 @@
-Version 6.1
-Oracle.VirtualBox
+Version 6.2
 MullvadVPN.MullvadVPN
 MullvadVPN.MullvadBrowser
-Insecure.Npcap
-WiresharkFoundation.Wireshark
 GitHub.cli
 tailscale.tailscale
 Microsoft.AzureCLI
