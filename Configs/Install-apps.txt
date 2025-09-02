@@ -1,4 +1,4 @@
-Version 6.2
+Version 6.3
 MullvadVPN.MullvadVPN
 MullvadVPN.MullvadBrowser
 GitHub.cli
@@ -6,6 +6,4 @@ tailscale.tailscale
 Microsoft.AzureCLI
 Git.Git
 Notepad++.Notepad++
-Microsoft.VisualStudioCode
-AgileBits.1Password
 Yubico.YubikeyManager
