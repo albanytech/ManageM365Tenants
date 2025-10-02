@@ -1,4 +1,4 @@
-Version 6.4
+Version 6.5
 MullvadVPN.MullvadVPN
 MullvadVPN.MullvadBrowser
 GitHub.cli
@@ -7,3 +7,4 @@ Microsoft.AzureCLI
 Git.Git
 Notepad++.Notepad++
 Yubico.YubikeyManager
+Dell.DisplayAndPeripheralManager
