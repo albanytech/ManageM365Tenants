@@ -1,10 +1,7 @@
-Version 6.5
-MullvadVPN.MullvadVPN
-MullvadVPN.MullvadBrowser
+Version 6.6
 GitHub.cli
 tailscale.tailscale
 Microsoft.AzureCLI
 Git.Git
 Notepad++.Notepad++
 Yubico.YubikeyManager
-Dell.DisplayAndPeripheralManager
